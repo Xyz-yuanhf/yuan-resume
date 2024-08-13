@@ -13,7 +13,7 @@ Quick start with [Overleaf](https://www.overleaf.com/) for online edit and compi
 
 ## Preview
 
-
+![image](https://github.com/Xyz-yuanhf/yuan-resume/blob/main/Preview/preview.png)
 
 ## License
 
