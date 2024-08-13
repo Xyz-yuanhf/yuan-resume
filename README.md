@@ -17,4 +17,4 @@ Quick start with [Overleaf](https://www.overleaf.com/) for online edit and compi
 
 ## License
 
-[The MIT License (MIT)](http://opensource.org/licenses/MIT). Copyrighted fonts are not subjected to this License.
+The MIT License (MIT). Copyrighted fonts are not subjected to this License.
