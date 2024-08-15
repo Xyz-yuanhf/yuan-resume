@@ -4,7 +4,7 @@ An elegant academic resume template, compiled with XeLaTeX. This project is a re
 
 ## Usage
 
-Quick start with [Overleaf](https://www.overleaf.com/) for online edit and compilation (the Overleaf template is reviewed-in-progress, and you can import from this GitHub project or upload the zipped project), or compile on your own computer.
+Quick start with [Overleaf](https://www.overleaf.com/latex/templates/yuans-resume-template/hzkxnqxyfgnr) for online edit and compilation, or compile on your own computer.
 
 **Note:** 
 
